@@ -1,5 +1,13 @@
+# Entornos virtuales de Python
 venv/
+env/
 __pycache__/
+
+# ARCHIVO DE CREDENCIALES (¡NUNCA SUBIR!)
 .env
-*.pdf
-/documentos_entrada/
+
+# Archivos de datos descargados y reportes generados
+descargas/
+*.csv
+*.txt
+*.html
